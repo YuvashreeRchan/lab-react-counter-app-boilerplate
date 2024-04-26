@@ -1,0 +1,38 @@
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 0 5px;
+  color: rgb(17, 13, 13);
+}
+
+button:hover {
+  background-color: #a9e7bf;
+}
+
+.counter {
+  font-size: 1.5rem;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+
